@@ -1,1 +1,0 @@
-var e={fullName:`Dr. Alex Carter`,email:`a.carter@curtin.edu.au`,pronouns:`They / Them`,studentId:`0098231`,resumeFileName:`a-carter-cv.pdf`};export{e as t};
